@@ -24,5 +24,5 @@ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic Kafka_Ex
 
 to the following endpoint
 
-192.168.100.6:8080/kafka/publish
+192.168.100.6:8080/kafka/publish   .
 
